@@ -1,0 +1,15 @@
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojAssemblyReference.cache
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\MainWindow.g.cs
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\App.g.cs
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор_MarkupCompile.cache
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор_MarkupCompile.lref
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\MainWindow.baml
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.g.resources
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\gamin\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb

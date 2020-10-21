@@ -1,0 +1,15 @@
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\bin\Debug\Кнопка.exe.config
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\bin\Debug\Кнопка.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\bin\Debug\Кнопка.pdb
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка.csprojAssemblyReference.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\MainWindow.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\App.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка_MarkupCompile.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка_MarkupCompile.lref
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\MainWindow.baml
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка.g.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка.Properties.Resources.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка.csproj.GenerateResource.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка.csproj.CoreCompileInputs.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Кнопка\Кнопка\obj\Debug\Кнопка.pdb

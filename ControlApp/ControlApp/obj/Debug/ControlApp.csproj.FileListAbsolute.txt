@@ -1,0 +1,15 @@
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\bin\Debug\ControlApp.exe.config
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\bin\Debug\ControlApp.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\bin\Debug\ControlApp.pdb
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp.csprojAssemblyReference.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\MainWindow.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\App.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp_MarkupCompile.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp_MarkupCompile.lref
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\MainWindow.baml
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp.g.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp.Properties.Resources.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp.csproj.GenerateResource.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp.csproj.CoreCompileInputs.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\ControlApp\ControlApp\obj\Debug\ControlApp.pdb

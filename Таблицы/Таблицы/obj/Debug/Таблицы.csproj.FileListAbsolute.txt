@@ -1,0 +1,15 @@
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\bin\Debug\Таблицы.exe.config
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\bin\Debug\Таблицы.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\bin\Debug\Таблицы.pdb
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы.csprojAssemblyReference.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\MainWindow.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\App.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы_MarkupCompile.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы_MarkupCompile.lref
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\MainWindow.baml
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы.g.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы.Properties.Resources.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы.csproj.GenerateResource.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы.csproj.CoreCompileInputs.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Таблицы\Таблицы\obj\Debug\Таблицы.pdb
