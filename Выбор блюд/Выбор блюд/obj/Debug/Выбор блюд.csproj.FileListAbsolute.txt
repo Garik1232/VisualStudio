@@ -1,0 +1,15 @@
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\bin\Debug\Выбор блюд.exe.config
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\bin\Debug\Выбор блюд.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\bin\Debug\Выбор блюд.pdb
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд.csprojAssemblyReference.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\MainWindow.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\App.g.cs
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд_MarkupCompile.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд_MarkupCompile.lref
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\MainWindow.baml
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд.g.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор_блюд.Properties.Resources.resources
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд.csproj.GenerateResource.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд.csproj.CoreCompileInputs.cache
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд.exe
+C:\Users\gamin\Desktop\Учёба\Visual Studio\Выбор блюд\Выбор блюд\obj\Debug\Выбор блюд.pdb
